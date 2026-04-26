@@ -44,3 +44,7 @@ Registers the `/restricted` command to manage the list of commands the Pi agent 
 /restricted add <pattern>
 /restricted remove <pattern>
 ```
+
+### Other Useful Extensions
+
+- [Pi-FFF](https://github.com/dmtrKovalenko/fff.nvim#pi-agent-extension): fast file search.
