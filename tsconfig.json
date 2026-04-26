@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@mariozechner/*": ["/opt/homebrew/lib/node_modules/@mariozechner/*"]
+    }
+  },
+  "include": [".pi/**/*", "extensions"]
+}
